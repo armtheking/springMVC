@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <body>
+<FONT color="#0404B4">
+<b>
+        Dear All, <p/>
+        You have a score !!. Please see in detail.<p/>
+</b>
+</FONT>
+        <FONT color="#FF0000"><b>No: &nbsp;</b><u>${no}</u></FONT><br/>
+        <FONT color="#FF0000"><b>Job: &nbsp;</b><u>${job}</u></FONT><br/>
+        <FONT color="#FF0000"><b>Title: &nbsp;</b><u>${title}</u></FONT><br/>
+        <FONT color="#FF0000"><b>Description: &nbsp;</b><u>${description}</u></FONT><br/>
+        <FONT color="#FF0000"><b>Request By: &nbsp;</b><u>${requestBy}</u></FONT><br/>
+        <FONT color="#FF0000"><b>Telephone: &nbsp;</b><u>${telephone}</u></FONT><br/>
+        <FONT color="#FF0000"><b>Score: &nbsp;</b><u>${score}</u></FONT><p/>
+
+       <b> <a href="http://172.16.58.231/IT-Tracking/">Login Click</a> </b>
+        <hr/><br/>
+
+      <FONT color="#0404B4"><b>Thanks & Best Regards</b></FONT>
+ 
+    </body>
+</html>
